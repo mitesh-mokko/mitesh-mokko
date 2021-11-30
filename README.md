@@ -10,6 +10,7 @@ These are some of my favorite technologies / libraries to build with. I consider
 - React Native
 - Expo
 - Node.js
+- Next.js
 - Express
 - MongoDB
 - Unity3D
